@@ -13,6 +13,12 @@ def get_alien_data():
     # alien_df = alien_data.groupby('city').size().reset_index(name='Number of Sightings')
     # return alien_df
 
+def get_cleaned_alien_data():
+    file_path = Path("../Resources/Cleansed_Alien_DataSet.csv")
+    alien_df = pd.read_csv(file_path)
+    return alien_df
+
+
 def get_military_bases():
     military_data = Path("../Resources/military-bases.csv")
     military_df = pd.read_csv(military_data)
