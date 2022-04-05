@@ -2,6 +2,11 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 import pandas as pd
+import panel as pn
+import plotly.express as px
+import hvplot.pandas
+import matplotlib.pyplot as plt
+
 
 def get_alien_data():
     file_path = Path("../Resources/Scrubbed_data.csv")
