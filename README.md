@@ -27,6 +27,7 @@ When looking at the relationship between UFO sightings and solar flare activity,
 ```
 Top common shapes includes Triangle, Circle & fireball & people has listed Light as shape in most of UFO sighthings
 ```
+![alt text](/Images/shapes.png)
 
 #### Is there a pattern in descriptions of UFO sightings?
 ```
