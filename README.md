@@ -50,3 +50,8 @@ In words cloud we could clearly see that bright, white light & shaped objects ar
 * Run jupyter lab
 `jupyter lab`
 * Open `Code/dashboard.ipynb` and run it
+
+
+## Presentation
+
+[embed]/Group_5_Presentation.pdf[/embed]
