@@ -1,4 +1,4 @@
-aaa# DO ALIENS EXIST?
+# DO ALIENS EXIST?
 
 ## Questions and Findings
 ### Geography
