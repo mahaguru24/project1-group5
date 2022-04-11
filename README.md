@@ -3,14 +3,14 @@
 ## Questions and Findings
 ### Geography
 #### Is there a pattern to the geographic location of UFO sightings?
-Based off the information from Alien Sightings over the last 50 years; it is evident that Alien Sightings are more prominent in the United States; specially along the West and East Coast; with a majority of sightings being in California (3,166), Texas (1,436) and Arizona (1373).
+Based off the information from UFO sightings over the last century; it is evident that Alien Sightings are more prominent in the United States; specially along the West and East Coast; with a majority of sightings being in California (3,166), Texas (1,436) and Arizona (1373).
 
 ![alt text](/Images/1a_ufo_map.png)
 
 ![alt text](/Images/1b_ufo_map_zoomed.png)
 
 #### Is there a relationship between US Military base locations and UFO sightings?
-There is no direct evidence to show UFO Sightings have a correlation with Military Bases; however, it is interesting to note that the US have 73 Military Bases in California, 42 in Texas and 19 in Arizona; for which make up a majority of the Alien Sightings. This would indicate that UFO's find these states and potentially these bases as POI. 
+There is no direct evidence to show UFO sightings have a correlation with Military Bases; however, it is interesting to note that the US have 73 Military Bases in California, 42 in Texas and 19 in Arizona; for which make up a majority of the UFO sightings. This would indicate that UFOs find these states and potentially these bases as POI. 
 
 ![alt text](/Images/1c_military.png)
 
@@ -36,7 +36,7 @@ When looking at the relationship between UFO sightings and solar flare activity,
 
 ### Descriptions
 #### Which UFO shape or words is most commonly reported in UFO sightings?
-Top common shapes for the description of a UFO sighting include "Light", "Triangle", "Circle" & "Fireball".
+Top common shapes for the description of a UFO sighting include "light", "triangle", "circle" & "fireball".
 
 ![alt text](/Images/4a_ufo_shapes.png)
 
