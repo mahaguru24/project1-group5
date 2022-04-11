@@ -1,11 +1,13 @@
-# DO ALIENS EXIST?
+aaa# DO ALIENS EXIST?
 
 ## Questions and Findings
 ### Geography
 #### Is there a pattern to the geographic location of UFO sightings?
 
+Based off the information from Alien Sightings over the last 50 years; it is evident that Alien Sightings are more prominent in the United States; specially along the West and East Coast; with a majority of sightings being in California (3,166), Texas (1,436) and Arizona (1373).
 
 #### Is there a relationship between US Military base locations and UFO sightings?
+There is no direct evidence to show UFO Sightings have a correlation with Military Bases; however, it is interesting to note that the US have 73 Military Bases in California, 42 in Texas and 19 in Arizona; for which make up a majority of the Alien Sightings. This would indicate that UFO's find these states and potentially these bases as POI. 
 
 
 ### Timing
