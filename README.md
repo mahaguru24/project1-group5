@@ -10,7 +10,11 @@
 
 ### Timing
 #### Is there a pattern to the timing of UFO sightings?
+In terms of days of the week, UFO sightings were most common on weekends, Saturdays in particular. 17.5% of UFO sightings occurred on Saturdays.
 
+UFO sightings peaked in the month of July, which corresponds with Northern Hemisphere Summer.
+
+UFO sightings increased significantly since 2000. This may relate to increased data capture.
 
 ### Space Weather
 #### Is there a relationship between UFO sightings and solar flare activity?
