@@ -18,7 +18,7 @@ UFO sightings increased significantly since 2000. This may relate to increased d
 
 ### Space Weather
 #### Is there a relationship between UFO sightings and solar flare activity?
-
+When looking at the relationship between UFO sightings and solar flare activity, it showed that 34.2% of the times a sighting was reported a solar flare occured.
 
 ### Descriptions
 #### Which UFO shape is most commonly reported in UFO sightings?
