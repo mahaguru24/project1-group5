@@ -23,3 +23,6 @@ def create_scatter_plot(data, size="size", lat="lat", lon="lon", color="color", 
 
 def create_bar_chart(data,x="x",y="y",xlabel="xlabel",ylabel="ylabel",rot=90):
     return  data.hvplot(kind="bar",x=x, y=y, xlabel=xlabel, ylabel=ylabel, rot=rot)
+
+def create_line_chart(data,x="x",y="y",xlabel="xlabel",ylabel="ylabel",rot=90):
+    return  data.hvplot(kind="line",x=x, y=y, xlabel=xlabel, ylabel=ylabel, rot=rot)
