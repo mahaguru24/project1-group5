@@ -53,5 +53,4 @@ In words cloud we could clearly see that bright, white light & shaped objects ar
 
 
 ## Presentation
-
-[embed]/Group_5_Presentation.pdf[/embed]
+Please find the presentation at in the [Group_5_Presentation.pdf](Group_5_Presentation.pdf) file
