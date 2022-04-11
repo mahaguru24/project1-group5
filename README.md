@@ -21,11 +21,16 @@ UFO sightings increased significantly since 2000. This may relate to increased d
 When looking at the relationship between UFO sightings and solar flare activity, it showed that 34.2% of the times a sighting was reported a solar flare occured.
 
 ### Descriptions
-#### Which UFO shape is most commonly reported in UFO sightings?
-
+#### Which UFO shape or words is most commonly reported in UFO sightings?
+```
+Top common shapes includes Triangle, Circle & fireball & people has listed Light as shape in most of UFO sighthings
+```
 
 #### Is there a pattern in descriptions of UFO sightings?
-
+```
+In words cloud we could clearly see that bright, white light & shaped objects are highly repetitive words for descriptions.
+```
+![alt text](/Images/wordcloud.png)
 
 ## How to Use This Repository
 ### Resources
