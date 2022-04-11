@@ -12,6 +12,8 @@ Based off the information from Alien Sightings over the last 50 years; it is evi
 #### Is there a relationship between US Military base locations and UFO sightings?
 There is no direct evidence to show UFO Sightings have a correlation with Military Bases; however, it is interesting to note that the US have 73 Military Bases in California, 42 in Texas and 19 in Arizona; for which make up a majority of the Alien Sightings. This would indicate that UFO's find these states and potentially these bases as POI. 
 
+![alt text](/Images/1c_military.png)
+
 ### Timing
 #### Is there a pattern to the timing of UFO sightings?
 In terms of days of the week, UFO sightings were most common on weekends, Saturdays in particular. 17.5% of UFO sightings occurred on Saturdays.
